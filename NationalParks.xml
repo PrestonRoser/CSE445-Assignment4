@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalParks
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://prestonroser.github.io/CSE445-Assignment4/NationalParks.xsd">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -118,22 +120,22 @@
     <Name>Bryce Canyon</Name>
     <Phone>435-834-5322</Phone>
     <Address NearestAirport="Cedar City">
-        <Number>1</Number>
-        <Street>Bryce Canyon Road</Street>
-        <City>Bryce Canyon City</City>
-        <State>UT</State>
-        <Zip>84764</Zip>
+      <Number>1</Number>
+      <Street>Bryce Canyon Road</Street>
+      <City>Bryce Canyon City</City>
+      <State>UT</State>
+      <Zip>84764</Zip>
     </Address>
   </NationalPark>
-  <NationalPark>
-    <Name>Bryce Canyon</Name>
-    <Phone>435-834-5322</Phone>
-    <Address NearestAirport="Cedar City">
-        <Number>1</Number>
-        <Street>Bryce Canyon Road</Street>
-        <City>Bryce Canyon City</City>
-        <State>UT</State>
-        <Zip>84764</Zip>
+  <NationalPark Rating="4.8">
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Address NearestAirport="Knoxville">
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
     </Address>
   </NationalPark>
 </NationalParks>
