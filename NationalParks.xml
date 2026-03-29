@@ -114,15 +114,26 @@
       <Zip>33034</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
-<NationalPark Rating="4.8">
-    <Name>Great Smoky Mountains</Name>
-    <Phone>865-436-1200</Phone>
-    <Address NearestAirport="Knoxville">
-        <Number>107</Number>
-        <Street>Park Headquarters Road</Street>
-        <City>Gatlinburg</City>
-        <State>TN</State>
-        <Zip>37738</Zip>
+  <NationalPark>
+    <Name>Bryce Canyon</Name>
+    <Phone>435-834-5322</Phone>
+    <Address NearestAirport="Cedar City">
+        <Number>1</Number>
+        <Street>Bryce Canyon Road</Street>
+        <City>Bryce Canyon City</City>
+        <State>UT</State>
+        <Zip>84764</Zip>
     </Address>
-</NationalPark>
+  </NationalPark>
+  <NationalPark>
+    <Name>Bryce Canyon</Name>
+    <Phone>435-834-5322</Phone>
+    <Address NearestAirport="Cedar City">
+        <Number>1</Number>
+        <Street>Bryce Canyon Road</Street>
+        <City>Bryce Canyon City</City>
+        <State>UT</State>
+        <Zip>84764</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
