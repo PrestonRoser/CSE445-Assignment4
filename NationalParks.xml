@@ -115,3 +115,14 @@
     </Address>
   </NationalPark>
 </NationalParks>
+<NationalPark Rating="4.8">
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Address NearestAirport="Knoxville">
+        <Number>107</Number>
+        <Street>Park Headquarters Road</Street>
+        <City>Gatlinburg</City>
+        <State>TN</State>
+        <Zip>37738</Zip>
+    </Address>
+</NationalPark>
